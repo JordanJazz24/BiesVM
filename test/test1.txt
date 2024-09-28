@@ -1,0 +1,3 @@
+ldv 666
+prn
+hlt
